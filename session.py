@@ -8,11 +8,7 @@ dinosaurs = [
     "Iguanodon"
 ]
 
-saurus_dinosaurs = [
-    "Anklyosaurus",
-    "Tyrannosaurus Rex",
-    "Stegosaurus"
-]
+saurus_dinosaurs = []
 
 for dino in dinosaurs:
     if "saurus" in dino:
